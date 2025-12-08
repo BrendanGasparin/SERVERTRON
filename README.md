@@ -5,7 +5,7 @@ I am creating mine on a 64GB RAM mini-PC.
 
 Here are the project [docs/](docs/overview.md).  
 
-The 8 phases of the interative DevOps cycle are:  
+The 8 phases of the iterative DevOps cycle are:  
 1. [Planning](phases/planning/README.md): Goals, constraints, risk register, threat model, service inventory.  
 2. Coding: Ansible, Docker Compose, scripts, and configuration as code.  
 3. Building: Proxmox install notes, VM/LXC layout, and template definitions.  
