@@ -45,19 +45,24 @@ The web server and Minecraft server will be exposed to the Internet. But adminis
 The threats if the server were to compromised are relatively low as, at least initially, the server will only host my own websites, a Minecraft server, and media content. With the potential for the addition of ecommerce capabilities to websites, and the desire to follow good DevOps practices throughout the project, good security practices are vital.  
 
 ## 7. Architecture  
-The architecture of SERVERTRON-1 will be as follows:  
+The architecture and GitOps flow of SERVERTRON-1 will be as follows:  
   
-![Architecture diagram](../../images/SERVERTRON-1-architecture.png)
-
-
+![Architecture and GitOps flow diagram for SERVERTRON-1](../../images/SERVERTRON-1-architecture.png)
+  
 ## 8. Infrastructure as Code Boundaries
+The following features were not implemented with Infrastructure as Code:  
+(Update as needed.)  
 
-
-## 9. Risks and Trade-Offs
-
+## 9. Risks and Trade-Offs  
+There are certain risks and trade-offs to be made in the implementation of this project. For example:  
+- A single node means a single point of failure
+- A dependency on Cloudflare also makes it a single point of failure
+- Kubernetes is being used as a learning tool and playground and the complexity may outweigh the benefit  
+- There is a risk of data loss without using a universal power supply (or UPS) and not enough power outlets to allow for use of a UPS  
 
 ## 10. Success criteria  
+In order for Project: SERVERTRON to be considered a success:  
 - The system should be as replicable as possible from Git alone  
-- Services survive reboot without intervention  
+- Services must survive reboot without intervention  
 - Each major design decision should be documented  
 - A third party must be able to understand the repository  
