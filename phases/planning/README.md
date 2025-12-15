@@ -1,4 +1,4 @@
 # SERVERTRON Planning Phase
 
 ## Table of Contents
-1. [Plan](01-plan.md)  
+1. [Plan Overview](01-plan.md)  
