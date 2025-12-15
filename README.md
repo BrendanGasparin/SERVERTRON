@@ -1,7 +1,7 @@
 # Project: SERVERTRON  
 SERVERTRON aims to be a replicable, documented DevOps environment that can host many applications and services on a single physical machine.  
 
-I am creating mine on a 64GB RAM mini-PC.  
+I am creating mine on a 64GB RAM mini-PC called SERVERTRON-1.  
 
 Here are the project [docs/](docs/overview.md).  
 
