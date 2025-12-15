@@ -24,7 +24,5 @@ The goals of Project: SERVERTRON are to create a Proxmox installation running Li
 This will include the following containers or VMs:  
 - Web server with WordPress sites accessible over the Internet to host my business.  
 - Plex media server on the local network.  
-- Minecraft server playable (and administerable) over the Internet.  
-- ARK: Survival Evolved server playable (and administerable) over the Internet.  
-
-The goals also include thoroughly documenting the process and making it as reproducible as possible, available on Github.  
+- Minecraft server playable over the Internet, administered using RCON over a local network.  
+- ARK: Survival Evolved server playable over the Internet.  
