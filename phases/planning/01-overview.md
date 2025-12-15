@@ -1,4 +1,4 @@
-# Planning Phase  
+# Plan Overview  
 
 ## 1. Problem Statement  
 Project: SERVERTRON exists to provide a secure, reproducible, single-node platform for hosting both Internet-facing and home services, using DevOps and platform engineering practices, along with thorough documentation and Infrastructure as Code.  
@@ -55,7 +55,7 @@ The threats if the server were to compromised are relatively low as, at least in
 ## 7. Architecture  
 The architecture and GitOps flow of SERVERTRON-1 will be as follows:  
   
-![Architecture and GitOps flow diagram for SERVERTRON-1](../../images/SERVERTRON-1-architecture.png)
+![Architecture and GitOps flow diagram for SERVERTRON-1](../../images/SERVERTRON-architecture.png)
   
 ## 8. Infrastructure as Code Boundaries
 The following features were not implemented with Infrastructure as Code:  
