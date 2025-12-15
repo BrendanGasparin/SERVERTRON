@@ -46,6 +46,7 @@ The threats if the server were to compromised are relatively low as, at least in
 
 ## 7. Architecture  
 The architecture of SERVERTRON-1 will be as follows:  
+  
 ![Architecture diagram](../../images/SERVERTRON-1-architecture.png)
 
 
