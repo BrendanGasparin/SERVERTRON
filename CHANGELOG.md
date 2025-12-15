@@ -9,7 +9,7 @@ This project follows an infrastructure-focused interpretation of [Keep a Changel
 ## [0.0.1] - 2025-12-15  
 
 ### Added
-- Planning phase  
+- Plan overview  
 - SERVERTRON architecture and GitOps flow diagram  
 - (Incomplete) Compute Model in architecture directory 
 
