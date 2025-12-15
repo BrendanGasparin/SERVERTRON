@@ -15,7 +15,7 @@ This will include the following containers or VMs:
 - ARK: Survival Evolved server playable over the Internet.  
 
 ## The DevOps Cycle  
-DevOps stands for "Development Operations" and is a holistic cycle that combines both software development and operations.  
+DevOps stands for "Development Operations" and is a looping cycle that combines both software development and operations.  
 
 The 8 phases of the iterative DevOps cycle are:  
   
