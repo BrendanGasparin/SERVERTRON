@@ -19,7 +19,7 @@ DevOps stands for "Development Operations" and is a holistic cycle that combines
 
 The 8 phases of the iterative DevOps cycle are:  
   
-1. [Planning](phases/planning/README.md): Goals, constraints, risk register, threat model, service inventory.  
+1. [Planning](phases/planning/README.md): Goals, constraints, service inventory, threat model, risk register.  
 2. Coding: Ansible, Docker Compose, scripts, and configuration as code.  
 3. Building: Proxmox install notes, VM/LXC layout, and template definitions.  
 4. Testing: Test plans, smoke tests, backup restore tests, checklists.  
