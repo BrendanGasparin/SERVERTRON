@@ -4,6 +4,14 @@
 Project: SERVERTRON exists to provide a secure, reproducible, single-node platform for hosting both Internet-facing and home services, using DevOps and platform engineering practices, along with thorough documentation and Infrastructure as Code.  
 
 ## 2. Goals and Non-Goals  
+The goals of Project: SERVERTRON are to create a Proxmox installation running Linux containers and virtual machines and to document and make the process as replicable as possible.  
+
+This will include the following containers or VMs:  
+- Web server with WordPress sites accessible over the Internet.  
+- Minecraft server playable over the Internet, administered using RCON over a local network.  
+- Plex media server on the local network.  
+- ARK: Survival Evolved server playable over the Internet.  
+
 SERVERTRON should:  
 - Demonstrate DevOps practices such as Infrastructure as Code and the DevOps cycle.
 - Apply GitOps (even if it is only on one node).

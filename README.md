@@ -22,7 +22,7 @@ Then the cycle repeats with feedback from the previous loop informing new plans.
 The goals of Project: SERVERTRON are to create a Proxmox installation running Linux containers and virtual machines and to document and make the process as replicable as possible.  
 
 This will include the following containers or VMs:  
-- Web server with WordPress sites accessible over the Internet to host my business.  
+- Web server with WordPress sites accessible over the Internet.  
 - Plex media server on the local network.  
 - Minecraft server playable over the Internet, administered using RCON over a local network.  
 - ARK: Survival Evolved server playable over the Internet.  
