@@ -3,10 +3,10 @@ SERVERTRON aims to be a replicable, documented DevOps environment that can host 
 
 I am creating an instance called SERVERTRON-1 on a 64GB RAM mini-PC.  
 
-Here are the project [docs/](docs/overview.md).  
+Here are the project [docs](docs/overview.md).  
 
 ## Goals  
-The goals of Project: SERVERTRON are to create a Proxmox installation running Linux containers and virtual machines and to document and make the process as replicable as possible.  
+The goals of Project: SERVERTRON are to create a Proxmox VE host layer installation running Linux containers and virtual machines. The process will be documented and represented with Infrastructure as Code to make it as replicable as possible.  
 
 This will include the following containers or VMs:  
 - Web server with WordPress sites accessible over the Internet.  
@@ -29,3 +29,6 @@ The 8 phases of the iterative DevOps cycle are:
 8. Integration: Postportems, changelog, roadmap, and lessons learned.  
 
 Then the cycle repeats with feedback from the previous loop informing new plans.  
+
+---
+[Changelog](CHANGELOG.md)  
